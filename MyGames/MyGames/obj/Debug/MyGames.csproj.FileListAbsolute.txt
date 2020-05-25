@@ -1,9 +1,0 @@
-D:\VisualStudioProjects\MyGames\MyGames\obj\Debug\MyGames.csprojAssemblyReference.cache
-D:\VisualStudioProjects\MyGames\MyGames\obj\Debug\MyGames.Form1.resources
-D:\VisualStudioProjects\MyGames\MyGames\obj\Debug\MyGames.Properties.Resources.resources
-D:\VisualStudioProjects\MyGames\MyGames\obj\Debug\MyGames.csproj.GenerateResource.cache
-D:\VisualStudioProjects\MyGames\MyGames\bin\Debug\MyGames.exe.config
-D:\VisualStudioProjects\MyGames\MyGames\bin\Debug\MyGames.exe
-D:\VisualStudioProjects\MyGames\MyGames\bin\Debug\MyGames.pdb
-D:\VisualStudioProjects\MyGames\MyGames\obj\Debug\MyGames.exe
-D:\VisualStudioProjects\MyGames\MyGames\obj\Debug\MyGames.pdb
